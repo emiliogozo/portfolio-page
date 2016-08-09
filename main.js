@@ -1,3 +1,7 @@
+$('body').scrollspy({
+  target: '#navbar'
+});
+
 $('.grid').masonry({
   // options
   itemSelector: '.grid-item',
