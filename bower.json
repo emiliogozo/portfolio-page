@@ -1,0 +1,10 @@
+{
+  "name": "tribute",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3",
+    "masonry": "^4.1.0",
+    "bootstrap-material-design": "^0.5.10"
+  }
+}
